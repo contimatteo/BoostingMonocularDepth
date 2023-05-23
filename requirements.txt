@@ -1,4 +1,4 @@
-torch==1.2
+torch
 torchvision
 cudnnenv
 gradio
